@@ -21,10 +21,10 @@ This repository contains Jupyter notebooks implementing Generalized Continuous-T
 - Ex1 : Zoomed Trajectories
   
 <figure>
-    <img src="./Ex1/Su-Shi-ZTr-CV.png" height="500", width="500" >
+    <img src="./Ex1/Su-Shi-ZTr-CV.png"  width="500" >
 </figure>
 - Ex1 : Errors
 
 <figure>
-    <img src="./Ex1/Su-Shi-Errors-CV.png" height="500", width="500" >
+    <img src="./Ex1/Su-Shi-Errors-CV.png"  width="500" >
 </figure>
