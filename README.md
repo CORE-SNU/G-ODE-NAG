@@ -11,7 +11,7 @@ This repository contains Jupyter notebooks implementing Generalized Continuous-T
 - numpy
 
 ## Experiments
-- [Ex1](#Ex1) : Comparison of NAG and corresponding ODEs in the convex case
+- [Ex1](#./Ex1) : Comparison of NAG and corresponding ODEs in the convex case
 - [Ex2](#Ex2) : Comparison of NAG and corresponding ODEs in the strongly convex case
 - [Ex3](#Ex3): Difference between NAG and G-ODE according to discretization interval
 - [Ex4](#Ex4) : Comparison of time-reparametrization of gradient descent and G-ODE
