@@ -19,4 +19,4 @@ This repository contains Jupyter notebooks implementing the code samples found i
 
 ## Results
 
-<img src="Ex1/Su-Shi-Errors-CV.png"  width="70" height="30">
+<img src="./Ex1/Su-Shi-Errors-CV.png"  width="70" height="30">
