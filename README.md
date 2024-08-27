@@ -18,5 +18,5 @@ This repository contains Jupyter notebooks implementing the code samples found i
 - Ex5 : Restarting scheme for G-ODE and NAG
 
 ## Results
-
+![LYNMP 로고](./Ex1/Su-Shi-Errors-CV.png)
 <img src="./Ex1/Su-Shi-Errors-CV.png"  width="70" height="30">
